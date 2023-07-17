@@ -1,0 +1,54 @@
+/* responsive mobile and tablet */
+@media (max-width: 1032px) {
+    .header_cart--img {
+        width: 30%;
+    }
+
+    .container_cart--idioms-flower {
+        font-size: 15px;
+    }
+
+    .container_cart--idioms-type { 
+        font-size: 25px;
+    }
+
+    .footer_cart {
+        font-size: 15px;
+    }
+}
+
+
+/* Tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+}
+
+/* Mobile */
+
+@media (max-width: 739px) {
+    .header_cart--img {
+        width: 30%;
+    }
+
+    .container_cart--idioms-flower {
+        font-size: 15px;
+    }
+
+    .container_cart--idioms-type { 
+        font-size: 25px;
+    }
+
+    .footer_cart {
+        font-size: 15px;
+    }
+
+    .body {
+        margin: 35% 5%;
+        padding: 0 5px;
+    }
+
+}
+
+@media (min-width: 1024px) and (max-width: 1366px) {
+
+
+}

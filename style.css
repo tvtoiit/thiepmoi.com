@@ -1,0 +1,64 @@
+.container {
+    border-radius: 10px;
+    border: 20px solid #475d3c;
+    text-transform: uppercase;
+}
+
+.box_container--dad {
+    border: 5px solid #cbbf82;
+}
+
+.box_container--child {
+    background: #475d3c;
+    text-align: center;
+}
+
+.header_cart {
+    
+}
+
+.header_cart--img {
+    width: 15%;
+}
+
+/*
+container
+*/
+
+.container_cart {
+    
+}
+
+.container_cart--idioms {
+    margin-top: 15px;
+}
+
+.container_cart--idioms-flower {
+    color: #bfcabc;
+    text-transform: lowercase;
+    font-size: 20px;
+}
+
+.container_cart--idioms-type {
+    font-size: 30px;
+    text-transform: lowercase;
+    color: #ffffff;
+    font-family: 'Your Decorative Font', cursive;
+}
+
+.container_cart--slogan {
+    color: #a4b29e;
+    margin-top: 15px;
+}
+
+.container_cart--namegraduate { 
+    color: #cbbe80;
+    margin-top: 15px;
+    font-size: 25px;
+}
+
+.footer_cart {
+    margin-top: 15px;
+    color: #a4b29e;
+    padding-bottom: 5%;
+}

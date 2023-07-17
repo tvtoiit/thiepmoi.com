@@ -1,0 +1,39 @@
+/* Reset CSS */
+
+/* Đặt tất cả giá trị margin và padding về 0 */
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Thiết lập box-sizing cho tất cả các phần tử */
+  *,
+  ::before,
+  ::after {
+    box-sizing: border-box;
+  }
+  
+  /* Thiết lập font-size mặc định cho phần tử HTML */
+  html {
+    font-size: 16px;
+  }
+  
+  /* Xóa các đường viền và đường gạch chân mặc định */
+  a,
+  button {
+    text-decoration: none;
+    outline: none;
+    border: none;
+  }
+  
+  /* Thiết lập phông chữ mặc định cho toàn bộ trang */
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Thiết lập màu chữ mặc định cho toàn bộ trang */
+  body {
+    color: #000;
+    margin: 5% 10%;
+  }
+  
